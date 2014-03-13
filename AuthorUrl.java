@@ -1,8 +1,4 @@
 /**********************************************************************************
-****T-79.5308 Scalable Cloud Computing                 		    	***********
-****Assignment 1: Q2 AuthorUrl.Java                    		    	***********
-****Submitted By:Hussnain Ahmed						***********
-****Student ID: 281557                                 			***********
 ****Reference Material:							***********
 ****Lecture Slides, Tutorial Material					***********
 ****Book: Hadoop, Beginner's Guide By: Gary Turkington, PaCKT Publishing***********
